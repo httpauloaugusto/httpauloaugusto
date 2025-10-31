@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👨🏻‍💻 Paulo Augusto Ramos
 
-<!--
-**httpauloaugusto/httpauloaugusto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`GESTÃO DE PROCESSOS | ANÁLISE DE SISTEMAS | NEGOCIAÇÃO | CIBERSEGURANÇA | PROGRAMAÇÃO`**
 
-Here are some ideas to get you started:
+Sou um profissional com experiência em gestão de processos, produção, atendimento ao cliente e negociação, atualmente em formação em Análise e Desenvolvimento de Sistemas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Minha trajetória passa por indústria gráfica, SAC e empreendedorismo, onde desenvolvi habilidades em planejamento, liderança, organização e resolução de problemas.
+
+Tenho interesse em unir minha vivência em gestão e processos com meus conhecimentos em programação e cibersegurança, buscando oportunidades para contribuir em projetos que exijam visão analítica, inovação e eficiência operacional.
+
+
+
+<p>
+  <a href="https://www.linkedin.com/in/pauloaugustoramos" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-pauloaugustoramos-blue?style=social&logo=linkedin" alt="LinkedIn Badge">
+  </a>
+  
+  <a href="mailto:augustoempresariall@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-augustoempresariall@gmail.com-D14836?style=social&logo=gmail" alt="Gmail Badge">
+  </a>
+</p>
+
+
+
+---
+
+### 🗂️
+
+<img 
+    align="left" 
+    alt="PYTHON"
+    title="PYTHON" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"          
+/> 
+
+
+<br/>
+<br/>
+

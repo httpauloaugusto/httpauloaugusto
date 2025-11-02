@@ -8,32 +8,14 @@ Minha trajetória passa por indústria gráfica, SAC e empreendedorismo, onde de
 
 Tenho interesse em unir minha vivência em gestão e processos com meus conhecimentos em programação e cibersegurança, buscando oportunidades para contribuir em projetos que exijam visão analítica, inovação e eficiência operacional.
 
-
+<br/>
+<br/>
 
 <p>
   <a href="https://www.linkedin.com/in/pauloaugustoramos" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-pauloaugustoramos-blue?style=social&logo=linkedin" alt="LinkedIn Badge">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge">
   </a>
-  
-  <a href="mailto:augustoempresariall@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-augustoempresariall@gmail.com-D14836?style=social&logo=gmail" alt="Gmail Badge">
-  </a>
-</p>
 
-
-
----
-
-### 🗂️
-
-<img 
-    align="left" 
-    alt="PYTHON"
-    title="PYTHON" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"          
-/> 
 
 
 <br/>
